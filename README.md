@@ -1,1 +1,1 @@
-# silhouette_inverse_select_splines
+# Silhouette | Inverse select splines
